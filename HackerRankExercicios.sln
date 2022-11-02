@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compare-the-triplets", "compare-the-triplets\compare-the-triplets.csproj", "{746C6CAB-32E3-4106-981B-BBA263B885EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesHackerRank", "TestesHackerRank\TestesHackerRank.csproj", "{35AB3E4A-E10E-4DF7-B3CE-1943156B5170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{746C6CAB-32E3-4106-981B-BBA263B885EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746C6CAB-32E3-4106-981B-BBA263B885EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746C6CAB-32E3-4106-981B-BBA263B885EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746C6CAB-32E3-4106-981B-BBA263B885EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AB3E4A-E10E-4DF7-B3CE-1943156B5170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AB3E4A-E10E-4DF7-B3CE-1943156B5170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AB3E4A-E10E-4DF7-B3CE-1943156B5170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AB3E4A-E10E-4DF7-B3CE-1943156B5170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962AE5C1-E44C-4855-969A-8D1B755784E3}
+	EndGlobalSection
+EndGlobal
